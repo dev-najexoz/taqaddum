@@ -76,8 +76,8 @@ const studentsData = [
     stars: 6
   },
   {
-    name: "Muhammed Najah P",
-    new: 7,
+    name: "Muhammed hah",
+    new: 33,
     old: 0,
     juz: 4,
     present: 25,
